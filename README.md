@@ -2,4 +2,4 @@
 
 **Hello everybody!)** :smiley_cat:
 
-![] (https://m.popkey.co/8f288d/QLdR6.gif)
+I'm glad to be part of such a great community! :smiley:
