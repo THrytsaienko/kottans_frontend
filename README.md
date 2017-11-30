@@ -1,5 +1,7 @@
 # kottans_frontend
 
-**Hello everybody!)** :smiley_cat:
-
-I'm glad to be part of such a great community! :smiley:
+# Task 0
+<hr>
+- Several commands were new for me: `git log`, `git diff`, `git push -u origin master`
+- Command `git push -u origin master` surprised me
+- I will use command `git push -u origin master`
