@@ -7,9 +7,9 @@
 
 # Task 1
 Screenshots of finished cources: 
-[Lesson 1] (task_1/Course 1.jpg)
-[Lesson 2] (task_1/Course 2.jpg)
-[Lesson 3] (task_1/Course 3.jpg)
+[Lesson 1] (kottans_frontend/task_1/Course 1.jpg)
+[Lesson 2] (kottans_frontend/task_1/Course 2.jpg)
+[Lesson 3] (kottans_frontend/task_1/Course 3.jpg)
 
 * All information was new for me, because I've never dealt with it closely. I've heard about command `ping`, but I didn't know what it means. Command `man` is interesting - you can read all necessary information. New approach IPv6
 * Information that every packet has TTL - Time to live
