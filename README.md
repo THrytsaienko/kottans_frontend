@@ -18,3 +18,6 @@ Screenshots of finished courses: [Lesson 1](task_2/Course_1.jpg), [Lesson 2](tas
 * Several commands were new for me - `git rebase`, `git shortlog`, `git log` with different flags
 * `git log --author` and `git log --grep` surprised me
 * `git log` with flags, `git fetch`, `git push -f`
+
+# Task 3
+Everything was familiar for me in this course
