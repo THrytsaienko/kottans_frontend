@@ -11,3 +11,10 @@ Screenshots of finished courses: [Lesson 1](task_1/Course_1.jpg), [Lesson 2](./t
 * All information was new for me, because I've never dealt with it closely. I've heard about command `ping`, but I didn't know what it means. Command `man` is interesting - you can read all necessary information. New approach IPv6
 * Information that every packet has TTL - Time to live
 * I will use command `ssh-keygen`
+
+# Task 2
+Screenshots of finished courses: [Lesson 1](task_2/Course_1.jpg), [Lesson 2](task_2/Course_2.jpg)
+
+* Several commands were new for me - `git rebase`, `git shortlog`, `git log` with different flags
+* `git log --author` and `git log --grep` surprised me
+* `git log` with flags, `git fetch`, `git push -f`
