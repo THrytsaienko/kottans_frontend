@@ -20,9 +20,12 @@ Screenshots of finished courses: [Lesson 1](task_2/Course_1.jpg), [Lesson 2](tas
 * `git log` with flags, `git fetch`, `git push -f`
 
 # Task 3
-Everything was familiar for me in this course
+Everything was familiar to me in this course
 
 # Task 4
 * Approaches to make table responsive were new for me, information about adding new style files according to media (`link rel="stylesheet" media="screen and (min-width: 500px)" href="over500.css"`)
 * Media for link, size of button (48px)
 * I will use information about responsive tables and media for links
+
+# Task 5
+Everything was familiar to me in this course
